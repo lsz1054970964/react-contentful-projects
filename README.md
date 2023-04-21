@@ -9,4 +9,4 @@
 
 ### Deployment
 
-[Demo links]()
+[Demo links](https://shimmering-khapse-f751ce.netlify.app)
